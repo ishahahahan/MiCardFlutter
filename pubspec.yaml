@@ -35,6 +35,16 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:
+    - image/me.jpg
+  fonts:
+    - family: IMFellDWPica
+      fonts:
+        - asset: fonts/IMFellDWPica-Italic.ttf
+
+    - family: Source Sans Pro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
 
   # To add assets to your application, add an assets section, like this:
   # assets:
