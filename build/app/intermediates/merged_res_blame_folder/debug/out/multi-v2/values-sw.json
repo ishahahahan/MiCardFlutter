@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Flutter\\mi_card_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+            "outputFile": "C:\\Flutter\\Projects\\3. mi_card_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ishan\\.gradle\\caches\\transforms-3\\aec618094b5f57c3ab736f0ee9accc39\\transformed\\core-1.6.0\\res\\values-sw\\values-sw.xml",
