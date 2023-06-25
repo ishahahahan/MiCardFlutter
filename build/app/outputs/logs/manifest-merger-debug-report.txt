@@ -56,7 +56,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Is
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\Ishan\.gradle\caches\transforms-3\aec618094b5f57c3ab736f0ee9accc39\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Flutter\Projects\3. mi_card_flutter\android\app\src\main\AndroidManifest.xml:16:9-32
+		ADDED from C:\Flutter\Projects\3. mi_card_flutter\android\app\src\main\AndroidManifest.xml:16:9-31
 	android:icon
 		ADDED from C:\Flutter\Projects\3. mi_card_flutter\android\app\src\main\AndroidManifest.xml:17:9-43
 activity#co.appbrewery.micard.MainActivity

@@ -32,8 +32,8 @@
 26        android:debuggable="true"
 27        android:icon="@mipmap/ic_launcher"
 27-->C:\Flutter\Projects\3. mi_card_flutter\android\app\src\main\AndroidManifest.xml:17:9-43
-28        android:label="mi_card" >
-28-->C:\Flutter\Projects\3. mi_card_flutter\android\app\src\main\AndroidManifest.xml:16:9-32
+28        android:label="MiCard" >
+28-->C:\Flutter\Projects\3. mi_card_flutter\android\app\src\main\AndroidManifest.xml:16:9-31
 29        <activity
 29-->C:\Flutter\Projects\3. mi_card_flutter\android\app\src\main\AndroidManifest.xml:18:9-36:20
 30            android:name="co.appbrewery.micard.MainActivity"
