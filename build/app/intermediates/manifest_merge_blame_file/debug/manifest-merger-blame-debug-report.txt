@@ -5,7 +5,7 @@
 5    android:versionName="1.0.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="16"
+8        android:minSdkVersion="19"
 8-->C:\Flutter\Projects\3. mi_card_flutter\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
 9-->C:\Flutter\Projects\3. mi_card_flutter\android\app\src\main\AndroidManifest.xml
